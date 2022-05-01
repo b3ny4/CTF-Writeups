@@ -1,4 +1,4 @@
-# Confetti [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-green.svg)](https://shields.io/)
+# Auth Skip [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-green.svg)](https://shields.io/)
 
 ## Description
 
